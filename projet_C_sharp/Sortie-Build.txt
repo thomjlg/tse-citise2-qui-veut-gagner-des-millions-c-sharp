@@ -1,0 +1,7 @@
+﻿1>------ Début de la génération : Projet : projet_C_sharp, Configuration : Debug Any CPU ------
+1>D:\Projet C#\C#\projet_C_sharp\Form1.cs(20,16,20,18): warning CS0169: Le champ 'rep.qu' n'est jamais utilisé
+1>D:\Projet C#\C#\projet_C_sharp\Form1.cs(21,14,21,15): warning CS0169: Le champ 'rep.b' n'est jamais utilisé
+1>D:\Projet C#\C#\projet_C_sharp\Form1.cs(25,13,25,23): warning CS0414: Le champ 'Form1.avancement' est assigné, mais sa valeur n'est jamais utilisée
+1>D:\Projet C#\C#\projet_C_sharp\Form1.cs(30,23,30,28): warning CS0414: Le champ 'Form1.MyCmd' est assigné, mais sa valeur n'est jamais utilisée
+1>  projet_C_sharp -> D:\Projet C#\C#\projet_C_sharp\bin\Debug\projet_C_sharp.exe
+========== Génération : 1 a réussi, 0 a échoué, 0 mis à jour, 0 a été ignoré ==========

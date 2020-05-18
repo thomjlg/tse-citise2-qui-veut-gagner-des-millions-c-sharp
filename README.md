@@ -5,9 +5,10 @@ Utilisation de Visual Studio et PostgreSQL
 
 Etapes :
 1. Se connecter à la base de données
-    ouvrir postgreadmin et taper \c bibliotheque qvgdm
-    
-2. Lancer l'exécutable
+    Ouvrir le dossier postgreadmin, exécuter PgAdminPortable.exe et taper la commande :
+    \c bibliotheque qvgdm
+2. Lancer l'exécutable qui se trouve :
+    projet_C_sharp/bin/Rekease/projet_C_sharp.exe
 3. Jouez
 
 

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<histoqueries>
+ <histoquery>select * from reponse where question = 2;&#13;
+</histoquery>
+</histoqueries>

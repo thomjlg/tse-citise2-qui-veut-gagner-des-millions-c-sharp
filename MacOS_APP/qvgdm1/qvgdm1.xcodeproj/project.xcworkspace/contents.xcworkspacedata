@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:qvgdm1.xcodeproj">
+      location = "group:/Users/thomasjaulgey/Documents/_Git/Qui-veut-gagner-des-millions/MacOS_APP/qvgdm1/qvgdm1/Ressources">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

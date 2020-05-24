@@ -15,11 +15,11 @@
 		4503C4462478518100951396 /* qvgdm1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4503C4452478518100951396 /* qvgdm1UITests.swift */; };
 		4503C454247866C200951396 /* game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4503C453247866C200951396 /* game.swift */; };
 		4503C456247868FB00951396 /* publichelp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4503C455247868FB00951396 /* publichelp.swift */; };
-		4503C45F24798AA900951396 /* question.json in Resources */ = {isa = PBXBuildFile; fileRef = 4503C45D24798AA900951396 /* question.json */; };
-		4503C46024798AA900951396 /* reponse.json in Resources */ = {isa = PBXBuildFile; fileRef = 4503C45E24798AA900951396 /* reponse.json */; };
 		4503C468247993BA00951396 /* data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4503C467247993BA00951396 /* data.swift */; };
 		4503C46C2479956600951396 /* loadData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4503C46B2479956600951396 /* loadData.swift */; };
 		4503C4702479B1AC00951396 /* Victoire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4503C46F2479B1AC00951396 /* Victoire.swift */; };
+		4503C474247A738400951396 /* reponse.json in Resources */ = {isa = PBXBuildFile; fileRef = 4503C472247A738400951396 /* reponse.json */; };
+		4503C475247A738400951396 /* question.json in Resources */ = {isa = PBXBuildFile; fileRef = 4503C473247A738400951396 /* question.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,11 +57,12 @@
 		4503C455247868FB00951396 /* publichelp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = publichelp.swift; sourceTree = "<group>"; };
 		4503C4582479163C00951396 /* PGSQLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PGSQLKit.framework; path = ../../Library/Frameworks/PGSQLKit.framework; sourceTree = "<group>"; };
 		4503C45B24797FF000951396 /* PGSQLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PGSQLKit.framework; path = ../../Library/Library/Frameworks/PGSQLKit.framework; sourceTree = "<group>"; };
-		4503C45D24798AA900951396 /* question.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = question.json; path = ../../../Desktop/question.json; sourceTree = "<group>"; };
-		4503C45E24798AA900951396 /* reponse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = reponse.json; path = ../../../Desktop/reponse.json; sourceTree = "<group>"; };
 		4503C467247993BA00951396 /* data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = data.swift; sourceTree = "<group>"; };
 		4503C46B2479956600951396 /* loadData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loadData.swift; sourceTree = "<group>"; };
 		4503C46F2479B1AC00951396 /* Victoire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Victoire.swift; sourceTree = "<group>"; };
+		4503C471247A72E200951396 /* Ressources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Ressources; path = "/Users/thomasjaulgey/Documents/_Git/Qui-veut-gagner-des-millions/MacOS_APP/qvgdm1/qvgdm1/Ressources"; sourceTree = "<absolute>"; };
+		4503C472247A738400951396 /* reponse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = reponse.json; path = Ressources/reponse.json; sourceTree = SOURCE_ROOT; };
+		4503C473247A738400951396 /* question.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = question.json; path = Ressources/question.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,15 +114,16 @@
 		4503C4262478517E00951396 /* qvgdm1 */ = {
 			isa = PBXGroup;
 			children = (
+				4503C471247A72E200951396 /* Ressources */,
 				4503C46F2479B1AC00951396 /* Victoire.swift */,
 				4503C4272478517E00951396 /* AppDelegate.swift */,
 				4503C4292478517E00951396 /* ViewController.swift */,
 				4503C453247866C200951396 /* game.swift */,
 				4503C42B2478518000951396 /* Assets.xcassets */,
 				4503C42D2478518000951396 /* Main.storyboard */,
-				4503C45D24798AA900951396 /* question.json */,
-				4503C45E24798AA900951396 /* reponse.json */,
 				4503C467247993BA00951396 /* data.swift */,
+				4503C473247A738400951396 /* question.json */,
+				4503C472247A738400951396 /* reponse.json */,
 				4503C46B2479956600951396 /* loadData.swift */,
 				4503C455247868FB00951396 /* publichelp.swift */,
 				4503C4302478518000951396 /* Info.plist */,
@@ -261,10 +263,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4503C46024798AA900951396 /* reponse.json in Resources */,
 				4503C42C2478518000951396 /* Assets.xcassets in Resources */,
-				4503C45F24798AA900951396 /* question.json in Resources */,
+				4503C475247A738400951396 /* question.json in Resources */,
 				4503C42F2478518000951396 /* Main.storyboard in Resources */,
+				4503C474247A738400951396 /* reponse.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

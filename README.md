@@ -11,7 +11,7 @@
          Ouvrir le dossier postgreadmin, exécuter PgAdminPortable.exe et taper la commande :
          # \c bibliotheque qvgdm
         2. Lancer l'exécutable qui se trouve :
-         #  projet_C_sharp/bin/Rekease/projet_C_sharp.exe
+         #  projet_C_sharp/bin/Release/projet_C_sharp.exe
         3. Jouez
 
 

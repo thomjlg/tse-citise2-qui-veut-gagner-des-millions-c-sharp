@@ -1,7 +1,7 @@
 # Qui-veut-gagner-des-millions
  
 
-   #  - Projet C# WinForm (Visual Studio) 
+   ##  - Projet C# WinForm (Visual Studio) 
       Qui veut gagner des millions, adaptation en C# WinForm - Projet scolaire
 
       Utilisation de Visual Studio et PostgreSQL
@@ -21,6 +21,6 @@
         2. Sur le projet 
          Ouvrir dans visual studio (de préférence)
     
-   # - Projet Swift (XCode pour MacOS) 
+   ## - Projet Swift (XCode pour MacOS) 
      #   en cours de réalisation
 

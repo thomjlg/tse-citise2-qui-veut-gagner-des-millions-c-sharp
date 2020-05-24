@@ -3,11 +3,7 @@
 #2 dossiers:
    #  - Projet C# WinForm (Visual Studio) 
       #  fonctionnel
-   # - Projet Swift (XCode pour MacOS) 
-     #   en cours de réalisation
-
-### Version Windows ###
-Qui veut gagner des millions, adaptation en C# WinForm - Projet scolaire
+      Qui veut gagner des millions, adaptation en C# WinForm - Projet scolaire
 
 Utilisation de Visual Studio et PostgreSQL
 
@@ -26,3 +22,7 @@ Si vous souhaitez effectuer des modifications :
     
 2. Sur le projet 
     Ouvrir dans visual studio (de préférence)
+   # - Projet Swift (XCode pour MacOS) 
+     #   en cours de réalisation
+
+### Version Windows ###

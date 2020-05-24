@@ -1,4 +1,12 @@
 # Qui-veut-gagner-des-millions
+ 
+2 dossiers:
+    - Projet C# WinForm (Visual Studio) 
+        fonctionnel
+    - Projet Swift (XCode pour MacOS) 
+        en cours de réalisation
+
+### Version Windows ###
 Qui veut gagner des millions, adaptation en C# WinForm - Projet scolaire
 
 Utilisation de Visual Studio et PostgreSQL

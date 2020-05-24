@@ -23,4 +23,7 @@
     
    ## - Projet Swift (XCode | MacOS) 
      #   en cours de réalisation
+     
+     Fichiers .json pour la base de donnée (question.json ; reponse.json)
+     
 
